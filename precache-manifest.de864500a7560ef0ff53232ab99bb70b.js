@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d8c821b605c8035e637c546331b6c7af",
+    "revision": "ab7e6ec29c02ef34cd2e687a8df93d7a",
     "url": "/index.html"
   },
   {
-    "revision": "94f64a69f86195a62264",
+    "revision": "ad7bea2cba8b0ed4615e",
     "url": "/static/css/main.dc512ae1.chunk.css"
   },
   {
@@ -12,16 +12,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.184faea8.chunk.js"
   },
   {
-    "revision": "94f64a69f86195a62264",
-    "url": "/static/js/main.afd79113.chunk.js"
+    "revision": "ad7bea2cba8b0ed4615e",
+    "url": "/static/js/main.d0662589.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "f7fd24d36a91343010e6ff9f0c9bf08c",
-    "url": "/static/media/Greg_Carvalhal_CV_Frontend_Developer_2019.f7fd24d3.pdf"
+    "revision": "23263993b7e042d5b96e541251a31b7d",
+    "url": "/static/media/Greg_Carvalhal_CV_Frontend_Developer_2019.23263993.pdf"
   },
   {
     "revision": "3fc5d274e5ba88edb136082b1a3e56cf",

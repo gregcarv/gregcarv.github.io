@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.dc512ae1.chunk.css",
-    "main.js": "/static/js/main.0130bfd2.chunk.js",
-    "main.js.map": "/static/js/main.0130bfd2.chunk.js.map",
+    "main.js": "/static/js/main.afd79113.chunk.js",
+    "main.js.map": "/static/js/main.afd79113.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.36902f9f.chunk.js": "/static/js/2.36902f9f.chunk.js",
-    "static/js/2.36902f9f.chunk.js.map": "/static/js/2.36902f9f.chunk.js.map",
+    "static/js/2.184faea8.chunk.js": "/static/js/2.184faea8.chunk.js",
+    "static/js/2.184faea8.chunk.js.map": "/static/js/2.184faea8.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2517c1f72d6c66a7078c27058ac434b1.js": "/precache-manifest.2517c1f72d6c66a7078c27058ac434b1.js",
+    "precache-manifest.34b7605f98d1be2b745baef1a4d5e459.js": "/precache-manifest.34b7605f98d1be2b745baef1a4d5e459.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.dc512ae1.chunk.css.map": "/static/css/main.dc512ae1.chunk.css.map",
     "static/media/Greg_Carvalhal_CV_Frontend_Developer_2019.pdf": "/static/media/Greg_Carvalhal_CV_Frontend_Developer_2019.f7fd24d3.pdf",
+    "static/media/Gregory_Carvalhal_Recommendation_CaribMedia_2019.pdf": "/static/media/Gregory_Carvalhal_Recommendation_CaribMedia_2019.3fc5d274.pdf",
     "static/media/fabafLogo.png": "/static/media/fabafLogo.9c941a24.png"
   }
 }

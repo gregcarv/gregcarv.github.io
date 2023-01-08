@@ -1,18 +1,16 @@
 {
-  "files": {
-    "main.css": "/static/css/main.dc512ae1.chunk.css",
-    "main.js": "/static/js/main.d0662589.chunk.js",
-    "main.js.map": "/static/js/main.d0662589.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.184faea8.chunk.js": "/static/js/2.184faea8.chunk.js",
-    "static/js/2.184faea8.chunk.js.map": "/static/js/2.184faea8.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.de864500a7560ef0ff53232ab99bb70b.js": "/precache-manifest.de864500a7560ef0ff53232ab99bb70b.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.dc512ae1.chunk.css.map": "/static/css/main.dc512ae1.chunk.css.map",
-    "static/media/Greg_Carvalhal_CV_Frontend_Developer_2019.pdf": "/static/media/Greg_Carvalhal_CV_Frontend_Developer_2019.23263993.pdf",
-    "static/media/Gregory_Carvalhal_Recommendation_CaribMedia_2019.pdf": "/static/media/Gregory_Carvalhal_Recommendation_CaribMedia_2019.3fc5d274.pdf",
-    "static/media/fabafLogo.png": "/static/media/fabafLogo.9c941a24.png"
-  }
+  "main.css": "/static/css/main.656d72b8.chunk.css",
+  "main.js": "/static/js/main.4f852a4a.chunk.js",
+  "main.js.map": "/static/js/main.4f852a4a.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/js/2.d97ac031.chunk.js": "/static/js/2.d97ac031.chunk.js",
+  "static/js/2.d97ac031.chunk.js.map": "/static/js/2.d97ac031.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.a4c961873ad8af50004468aedc7844aa.js": "/precache-manifest.a4c961873ad8af50004468aedc7844aa.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.656d72b8.chunk.css.map": "/static/css/main.656d72b8.chunk.css.map",
+  "static/media/Greg_Carvalhal_CV_Frontend_Developer_2023.pdf": "/static/media/Greg_Carvalhal_CV_Frontend_Developer_2023.a30def1b.pdf",
+  "static/media/Gregory_Carvalhal_Recommendation_CaribMedia_2019.pdf": "/static/media/Gregory_Carvalhal_Recommendation_CaribMedia_2019.3fc5d274.pdf",
+  "static/media/fabafLogo.png": "/static/media/fabafLogo.2ecf42ac.png"
 }

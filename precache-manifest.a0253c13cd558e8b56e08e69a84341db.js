@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/static/media/Gregory_Carvalhal_Recommendation_CaribMedia_2019.3fc5d274.pdf"
   },
   {
-    "revision": "c6a27750a990951fd98667f9f4d06574",
+    "revision": "612899b72c31a6d0d66861bee9e72e9f",
     "url": "/index.html"
   }
 ];
